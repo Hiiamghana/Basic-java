@@ -1,13 +1,13 @@
 public class Patterns {
     public static void main(String args[]){
-        // print solid ractangle
+        // print solid rectangle
 //        for (int i=1;i<=4;i++) {
 //            for (int j = 1; j<=5; j++) {
 //                System.out.print("*");
 //            }
 //            System.out.println();
 //        }
-        // print hollow rectabgle
+        // print hollow rectangle
 //        int i,j,n=4,m=5;
 //        for (i=1;i<=n;i++) { //this is for inner loop
 //
